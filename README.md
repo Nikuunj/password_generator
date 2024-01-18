@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+<img align="right" width="420" src="/screenshots/1.png"  alt =" " style="border: solid 1px #d4d4d4" />
+
 
 ## Available Scripts
 
